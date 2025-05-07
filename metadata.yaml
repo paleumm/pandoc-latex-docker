@@ -1,0 +1,10 @@
+title: "Introduction to Markdown"
+author: [Lorem Ipsum]
+date: "2025-05-05"
+subject: "Markdown"
+keywords: [Lorem, Ipsum]
+lang: "en"
+subtitle: "Lorem ipsum"
+titlepage: true,
+titlepage-rule-color: "360049"
+titlepage-background: "background5.pdf"
